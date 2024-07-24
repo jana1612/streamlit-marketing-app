@@ -6,7 +6,7 @@ def app():
     st.write("""
     ## Entdecke die Magie des Chatbots
 
-    Stell dir vor, du könntest mühelos ansprechende Blogartikel und Social Media Captions erstellen. Mit dieser Streamlit App wird genau das möglich! Unser Chatbot, der auf fortschrittlicher Generative AI-Technologie basiert, zaubert automatisch hochwertige Inhalte basierend auf deinen Eingaben.
+    Stell dir vor, du könntest mühelos ansprechende Blogartikel  erstellen. Mit dieser Streamlit App wird genau das möglich! Unser Chatbot, der auf fortschrittlicher Generative AI-Technologie basiert, zaubert automatisch hochwertige Inhalte basierend auf deinen Eingaben.
 
     ## Wie funktioniert die App?
 
